@@ -12,7 +12,15 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
 
-- Javascript / .js, .jsx
+- Rust / .rs
+
+| Program                 | Working | Issue | Note        |
+| :---------------------- | :------ | :---- | :---------- |
+| Hello World             | ✅      | 🔕    | Simple      |
+| Calculator              | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ⛔      | 🔔    | Not Started |
+
+- Java / .java .class
 
 | Program                 | Working | Issue | Note        |
 | :---------------------- | :------ | :---- | :---------- |
@@ -28,23 +36,15 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
 
+- Javascript / .js, .jsx
+
+| Program                 | Working | Issue | Note        |
+| :---------------------- | :------ | :---- | :---------- |
+| Hello World             | ✅      | 🔕    | Simple      |
+| Calculator              | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ⛔      | 🔔    | Not Started |
+
 - Typescript / .ts, .tsx
-
-| Program                 | Working | Issue | Note        |
-| :---------------------- | :------ | :---- | :---------- |
-| Hello World             | ✅      | 🔕    | Simple      |
-| Calculator              | ⛔      | 🔔    | Not Started |
-| Random Number Generator | ⛔      | 🔔    | Not Started |
-
-- Rust / .rs
-
-| Program                 | Working | Issue | Note        |
-| :---------------------- | :------ | :---- | :---------- |
-| Hello World             | ✅      | 🔕    | Simple      |
-| Calculator              | ⛔      | 🔔    | Not Started |
-| Random Number Generator | ⛔      | 🔔    | Not Started |
-
-- Java / .java .class
 
 | Program                 | Working | Issue | Note        |
 | :---------------------- | :------ | :---- | :---------- |

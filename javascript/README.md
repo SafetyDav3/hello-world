@@ -6,6 +6,6 @@ In this environment im using [Node.js](https://nodejs.org/en/download) and [Node
 
 Program | Working | Issue | Note
 :- | :- | :- | :-
-Hello World | ⛔ | 🔔 | Not Started
+Hello World | ✅ | 🔕 | Simple
 Calculator | ⛔ | 🔔 | Not Started
 Random Number Generator | ⛔ | 🔔 | Not Started

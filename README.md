@@ -43,3 +43,11 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Hello World             | ✅      | 🔕    | Simple      |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+
+- Java / .java .class
+
+| Program                 | Working | Issue | Note        |
+| :---------------------- | :------ | :---- | :---------- |
+| Hello World             | ✅      | 🔕    | Simple      |
+| Calculator              | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ⛔      | 🔔    | Not Started |

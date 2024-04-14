@@ -4,8 +4,8 @@ In this environment im using [MinGW](https://code.visualstudio.com/docs/cpp/conf
 
 ## List of programs
 
-Program | Working | Issue | Note
-:- | :- | :- | :-
-Hello World | ✅ | 🔕 | Simple
-Calculator | ⛔ | 🔔 | Not Started
-Random Number Generator | ⛔ | 🔔 | Not Started
+| Program                 | Working | Issue | Note        |
+| :---------------------- | :------ | :---- | :---------- |
+| Hello World             | ✅      | 🔕    | Simple      |
+| Calculator              | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ⛔      | 🔔    | Not Started |

@@ -1,6 +1,6 @@
-# A collection of basic programs and functions in Javascript
+# A collection of basic programs and functions in Python 3
 
-In this environment im using [Node.js](https://nodejs.org/en/download) and [Nodemon](https://www.npmjs.com/package/nodemon)
+Python 3.12.3 As of this implementation
 
 ## List of programs
 

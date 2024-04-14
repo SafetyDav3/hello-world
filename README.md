@@ -6,24 +6,24 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 
 - C++ / .cpp
 
-Program | Working | Issue | Note
-:- | :- | :- | :-
-Hello World | ✅ | 🔕 | Simple
-Calculator | ⛔ | 🔔 | Not Started
-Random Number Generator | ⛔ | 🔔 | Not Started
+| Program                 | Working | Issue | Note        |
+| :---------------------- | :------ | :---- | :---------- |
+| Hello World             | ✅      | 🔕    | Simple      |
+| Calculator              | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ⛔      | 🔔    | Not Started |
 
 - Javascript / .js
 
-Program | Working | Issue | Note
-:- | :- | :- | :-
-Hello World | ✅ | 🔕 | Simple
-Calculator | ⛔ | 🔔 | Not Started
-Random Number Generator | ⛔ | 🔔 | Not Started
+| Program                 | Working | Issue | Note        |
+| :---------------------- | :------ | :---- | :---------- |
+| Hello World             | ✅      | 🔕    | Simple      |
+| Calculator              | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ⛔      | 🔔    | Not Started |
 
 - Python / .py
 
-Program | Working | Issue | Note
-:- | :- | :- | :-
-Hello World | ⛔ | 🔔 | Not Started
-Calculator | ⛔ | 🔔 | Not Started
-Random Number Generator | ⛔ | 🔔 | Not Started
+| Program                 | Working | Issue | Note        |
+| :---------------------- | :------ | :---- | :---------- |
+| Hello World             | ✅      | 🔕    | Simple      |
+| Calculator              | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ⛔      | 🔔    | Not Started |

@@ -1,18 +1,19 @@
 # A collection of basic programs and functions in Java
 
-## Install Rust
+## Install Java and JDK
 
 Install Java using [Official Website](https://www.java.com/en/download/):
+Install JDK using [Official Website](https://www.oracle.com/java/technologies/downloads/#jdk22-windows):
 
 ## Compile Project
 
-    rustc filename.rs
+    javac filename.java
 
 Be sure you are in the correct path when compiling.
 
 ## File types and associations
 
-    .rs
+    .java .class
 
 ## List of programs
 

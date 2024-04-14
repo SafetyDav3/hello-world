@@ -16,7 +16,7 @@ Random Number Generator | ⛔ | 🔔 | Not Started
 
 Program | Working | Issue | Note
 :- | :- | :- | :-
-Hello World | ⛔ | 🔔 | Not Started
+Hello World | ✅ | 🔕 | Simple
 Calculator | ⛔ | 🔔 | Not Started
 Random Number Generator | ⛔ | 🔔 | Not Started
 

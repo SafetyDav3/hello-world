@@ -20,7 +20,6 @@ Hello World | ✅ | 🔕 | Simple
 Calculator | ⛔ | 🔔 | Not Started
 Random Number Generator | ⛔ | 🔔 | Not Started
 
-
 - Python / .py
 
 Program | Working | Issue | Note

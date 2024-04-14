@@ -2,6 +2,10 @@
 
 Python 3.12.3 As of this implementation
 
+## File types and associations
+
+    .py
+
 ## List of programs
 
 | Program                 | Working | Issue | Note        |

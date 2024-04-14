@@ -2,6 +2,10 @@
 
 In this environment im using [Node.js](https://nodejs.org/en/download) and [Nodemon](https://www.npmjs.com/package/nodemon)
 
+## File types and associations
+
+    .js .jsx
+
 ## List of programs
 
 | Program                 | Working | Issue | Note        |

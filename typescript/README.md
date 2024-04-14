@@ -1,10 +1,10 @@
-# A collection of basic programs and functions in C++
+# A collection of basic programs and functions in Typescript
 
-In this environment im using [MinGW](https://code.visualstudio.com/docs/cpp/config-mingw) and [C/C++ Compile Run](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run).
+Using [Node.js](https://nodejs.org/en) and [Ts.Node](https://www.npmjs.com/package/ts-node)
 
 ## File types and associations
 
-    .cpp
+    .ts .tsx
 
 ## List of programs
 

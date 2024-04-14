@@ -1,6 +1,7 @@
 # A collection of basic programs and functions in Typescript
 
 Typescript must be installed before use.
+
     npm install typescript --save-dev
     npm install typescript -g
 

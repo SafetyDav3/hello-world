@@ -51,3 +51,11 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Hello World             | ✅      | 🔕    | Simple      |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+
+- Pascal / .pas
+
+| Program                 | Working | Issue | Note        |
+| :---------------------- | :------ | :---- | :---------- |
+| Hello World             | ⛔      | 🔔    | Not Started |
+| Calculator              | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ⛔      | 🔔    | Not Started |

@@ -59,3 +59,11 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Hello World             | ⛔      | 🔔    | Not Started |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+
+- Assembly / .asm, .s, .o
+
+| Program                 | Working | Issue | Note        |
+| :---------------------- | :------ | :---- | :---------- |
+| Hello World             | ⛔      | 🔔    | Not Working |
+| Calculator              | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ⛔      | 🔔    | Not Started |

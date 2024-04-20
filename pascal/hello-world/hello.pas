@@ -1,5 +1,5 @@
 // Hello World in Pascal
-program hello;
+program hello_world;
 begin
-    writeln('Hello World!');
+    writeln('Hello World');
 end.

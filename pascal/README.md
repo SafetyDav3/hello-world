@@ -11,3 +11,7 @@
 | Hello World             | ⛔      | 🔔    | Not Started |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+
+## Compiler
+
+- [Free Pascal](https://www.freepascal.org/download.html)

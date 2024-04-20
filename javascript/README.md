@@ -10,6 +10,6 @@ In this environment im using [Node.js](https://nodejs.org/en/download) and [Node
 
 | Program                 | Working | Issue | Note        |
 | :---------------------- | :------ | :---- | :---------- |
-| Hello World             | ✅      | 🔕    | Simple      |
+| Hello World             | ✅      | 🔕    | Working     |
 | Calculator              | ⛔      | 🔔    | Not Started |
-| Random Number Generator | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ✅      | 🔕    | Working     |

@@ -24,7 +24,7 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 
 | Program                 | Working | Issue | Note        |
 | :---------------------- | :------ | :---- | :---------- |
-| Hello World             | ✅      | 🔕    | Simple      |
+| Hello World             | ✅      | 🔕    | Working      |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
 
@@ -32,7 +32,7 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 
 | Program                 | Working | Issue | Note        |
 | :---------------------- | :------ | :---- | :---------- |
-| Hello World             | ✅      | 🔕    | Simple      |
+| Hello World             | ✅      | 🔕    | Working      |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
 
@@ -40,9 +40,9 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 
 | Program                 | Working | Issue | Note        |
 | :---------------------- | :------ | :---- | :---------- |
-| Hello World             | ✅      | 🔕    | Simple      |
+| Hello World             | ✅      | 🔕    | Working      |
 | Calculator              | ⛔      | 🔔    | Not Started |
-| Random Number Generator | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ✅      | 🔕    | Working |
 
 - Typescript / .ts, .tsx
 

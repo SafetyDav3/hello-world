@@ -8,8 +8,8 @@ Python 3.12.3 As of this implementation
 
 ## List of programs
 
-| Program                 | Working | Issue | Note        |
-| :---------------------- | :------ | :---- | :---------- |
-| Hello World             | ✅      | 🔕    | Working     |
-| Calculator              | ⛔      | 🔔    | Not Started |
-| Random Number Generator | ✅      | 🔕    | Working     |
+| Program                 | Working | Issue | Note    |
+| :---------------------- | :------ | :---- | :------ |
+| Hello World             | ✅      | 🔕    | Working |
+| Calculator              | ✅      | 🔕    | Working |
+| Random Number Generator | ✅      | 🔕    | Working |

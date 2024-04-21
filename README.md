@@ -33,8 +33,8 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Program                 | Working | Issue | Note        |
 | :---------------------- | :------ | :---- | :---------- |
 | Hello World             | ✅      | 🔕    | Working     |
-| Calculator              | ⛔      | 🔔    | Not Started |
-| Random Number Generator | ✅      | ✅    | Working     |
+| Calculator              | ✅      | 🔕    | Not Started |
+| Random Number Generator | ✅      | 🔕    | Working     |
 
 - Javascript / .js, .jsx
 

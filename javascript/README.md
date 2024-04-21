@@ -13,3 +13,4 @@ In this environment im using [Node.js](https://nodejs.org/en/download) and [Node
 | Hello World             | ✅      | 🔕    | Working     |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ✅      | 🔕    | Working     |
+| RegEx Email Validator   | ⛔      | 🔔    | Not Started |

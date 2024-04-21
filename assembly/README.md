@@ -13,3 +13,4 @@ In this environment im using CPP compiler.
 | Hello World             | ⛔      | 🔔    | Not Working |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+| RegEx Email Validator   | ⛔      | 🔔    | Not Started |

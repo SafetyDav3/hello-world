@@ -13,3 +13,4 @@ In this environment im using [MinGW](https://code.visualstudio.com/docs/cpp/conf
 | Hello World             | ✅      | 🔕    | Simple      |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+| RegEx Email Validator   | ⛔      | 🔔    | Not Started |

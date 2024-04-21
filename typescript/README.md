@@ -27,3 +27,4 @@ Be sure you are in the correct path when compiling.
 | Hello World             | ✅      | 🔕    | Simple      |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+| RegEx Email Validator   | ⛔      | 🔔    | Not Started |

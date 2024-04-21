@@ -11,6 +11,7 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Hello World             | ✅      | 🔕    | Simple      |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+| RegEx Email Validator   | ⛔      | 🔔    | Not Started |
 
 - Rust / .rs
 
@@ -19,6 +20,7 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Hello World             | ✅      | 🔕    | Simple      |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+| RegEx Email Validator   | ⛔      | 🔔    | Not Started |
 
 - Java / .java .class
 
@@ -27,6 +29,7 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Hello World             | ✅      | 🔕    | Working     |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+| RegEx Email Validator   | ⛔      | 🔔    | Not Started |
 
 - Python / .py
 
@@ -44,6 +47,7 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Hello World             | ✅      | 🔕    | Working     |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ✅      | 🔕    | Working     |
+| RegEx Email Validator   | ⛔      | 🔔    | Not Started |
 
 - Typescript / .ts, .tsx
 
@@ -52,6 +56,7 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Hello World             | ✅      | 🔕    | Simple      |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+| RegEx Email Validator   | ⛔      | 🔔    | Not Started |
 
 - Pascal / .pas
 
@@ -60,6 +65,7 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Hello World             | ⛔      | 🔔    | Not Started |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+| RegEx Email Validator   | ⛔      | 🔔    | Not Started |
 
 - Assembly / .asm, .s, .o
 
@@ -68,3 +74,4 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Hello World             | ⛔      | 🔔    | Not Working |
 | Calculator              | ⛔      | 🔔    | Not Started |
 | Random Number Generator | ⛔      | 🔔    | Not Started |
+| RegEx Email Validator   | ⛔      | 🔔    | Not Started |

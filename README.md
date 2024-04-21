@@ -35,6 +35,7 @@ Writing basic programs in multiple coding languages for practical knowledge and 
 | Hello World             | ✅      | 🔕    | Working     |
 | Calculator              | ✅      | 🔕    | Not Started |
 | Random Number Generator | ✅      | 🔕    | Working     |
+| RegEx Email Validator   | ✅      | 🔕    | Working     |
 
 - Javascript / .js, .jsx
 

@@ -13,3 +13,4 @@ Python 3.12.3 As of this implementation
 | Hello World             | ✅      | 🔕    | Working |
 | Calculator              | ✅      | 🔕    | Working |
 | Random Number Generator | ✅      | 🔕    | Working |
+| RegEx Email Validator   | ✅      | 🔕    | Working |

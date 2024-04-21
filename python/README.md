@@ -10,6 +10,6 @@ Python 3.12.3 As of this implementation
 
 | Program                 | Working | Issue | Note        |
 | :---------------------- | :------ | :---- | :---------- |
-| Hello World             | ✅      | 🔕    | Simple      |
+| Hello World             | ✅      | 🔕    | Working     |
 | Calculator              | ⛔      | 🔔    | Not Started |
-| Random Number Generator | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ✅      | 🔕    | Working     |

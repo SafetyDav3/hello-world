@@ -24,7 +24,7 @@ Be sure you are in the correct path when compiling.
 
 | Program                 | Working | Issue | Note        |
 | :---------------------- | :------ | :---- | :---------- |
-| Hello World             | ✅      | 🔕    | Simple      |
+| Hello World             | ✅      | 🔕    | Working     |
 | Calculator              | ⛔      | 🔔    | Not Started |
-| Random Number Generator | ⛔      | 🔔    | Not Started |
+| Random Number Generator | ✅      | 🔕    | Working     |
 | RegEx Email Validator   | ⛔      | 🔔    | Not Started |
